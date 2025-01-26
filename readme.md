@@ -104,13 +104,13 @@ Sehat Saathi is an AI-powered healthcare assistant designed to streamline intera
 
 2. **Doctor Flowchart**:
 
-![Doctor](../assets/lnm_images/doc.png)
+![Doctor](./lnm_images/doc.png)
 
 ---
 
 ## 🔮 ER Diagram
 
-![ER Diagram](../assets/lnm_images/ER.png)
+![ER Diagram](./lnm_images/ER.png)
 
 ---
 
@@ -118,58 +118,58 @@ Sehat Saathi is an AI-powered healthcare assistant designed to streamline intera
 
 1. **Admin**:
 
-![Registration](../assets/lnm_images/a22.jpeg)
+![Registration](./lnm_images/a22.jpeg)
 
-![Dashboard](../assets/lnm_images/a3.jpeg)
+![Dashboard](./lnm_images/a3.jpeg)
 
-![Patient_profile](../assets/lnm_images/d4.jpeg)
+![Patient_profile](./lnm_images/d4.jpeg)
 
-![Patient_History](../assets/lnm_images/a9.jpeg)
+![Patient_History](./lnm_images/a9.jpeg)
 
-![Doctor_profile](../assets/lnm_images/a2.jpeg)
+![Doctor_profile](./lnm_images/a2.jpeg)
 
-![Dashboard_Preview](../assets/lnm_images/p1.jpeg)
+![Dashboard_Preview](./lnm_images/p1.jpeg)
 
 2. **Patient**:
 
-![Registration](../assets/lnm_images/p23.jpeg)
+![Registration](./lnm_images/p23.jpeg)
 
-![Registration1](../assets/lnm_images/p18.jpeg)
+![Registration1](./lnm_images/p18.jpeg)
 
-![Registration2](../assets/lnm_images/p20.jpeg)
+![Registration2](./lnm_images/p20.jpeg)
 
-![Dashboard](../assets/lnm_images/p7.jpeg)
+![Dashboard](./lnm_images/p7.jpeg)
 
-![Dashboard_Preview](../assets/lnm_images/p19.jpeg)
+![Dashboard_Preview](./lnm_images/p19.jpeg)
 
-![Report](../assets/lnm_images/p24.jpeg)
+![Report](./lnm_images/p24.jpeg)
 
-![Patient_History](../assets/lnm_images/p25.jpeg)
+![Patient_History](./lnm_images/p25.jpeg)
 
-![Patient_History_preview](../assets/lnm_images/p16.jpeg)
+![Patient_History_preview](./lnm_images/p16.jpeg)
 
-![Patient_profile](../assets/lnm_images/p10.jpeg)
+![Patient_profile](./lnm_images/p10.jpeg)
 
 3. **Doctor**:
-![Report](../assets/lnm_images/d21.jpeg)
+![Report](./lnm_images/d21.jpeg)
 
-![Registration1](../assets/lnm_images/d13.jpeg)
+![Registration1](./lnm_images/d13.jpeg)
 
-![New_diagnosis](../assets/lnm_images/d14.jpeg)
+![New_diagnosis](./lnm_images/d14.jpeg)
 
-![Dashboard_Preview](../assets/lnm_images/d17.jpeg)
+![Dashboard_Preview](./lnm_images/d17.jpeg)
 
-![Patient_History](../assets/lnm_images/d26.jpeg)
+![Patient_History](./lnm_images/d26.jpeg)
 
-![Report](../assets/lnm_images/d8.jpeg)
+![Report](./lnm_images/d8.jpeg)
 
-![Doctor_profile](../assets/lnm_images/d12.jpeg)
+![Doctor_profile](./lnm_images/d12.jpeg)
 
 4. **Model Image**
 
-![Disease_predictor](../assets/lnm_images/m1.jpg)
+![Disease_predictor](./lnm_images/m1.jpg)
 
-![Disease_predictor_with_image](../assets/lnm_images/m2.jpg)
+![Disease_predictor_with_image](./lnm_images/m2.jpg)
 
 ---
 
