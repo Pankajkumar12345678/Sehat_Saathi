@@ -212,7 +212,7 @@ Sehat Saathi integrates cutting-edge AI technology with medical expertise to rev
 ## 👨‍💻 Developers
 
 - **Rajat Jain**
+- **Nar Narayan Gaur**
 - **Yash Kansara**
 - **Pankaj Kumar**
-- **Nar Narayan Gaur**
 
