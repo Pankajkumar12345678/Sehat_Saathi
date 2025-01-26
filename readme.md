@@ -119,17 +119,17 @@ Sehat Saathi is an AI-powered healthcare assistant designed to streamline intera
 1. **Admin**:
 
 ![Registration](./lnm_images/a22.jpeg)
-
+<br />
 ![Dashboard](./lnm_images/a3.jpeg)
-
+ <br />
 ![Patient_profile](./lnm_images/d4.jpeg)
-
+ <br />
 ![Patient_History](./lnm_images/a9.jpeg)
-
+ <br />
 ![Doctor_profile](./lnm_images/a2.jpeg)
-
+ <br />
 ![Dashboard_Preview](./lnm_images/p1.jpeg)
-
+ <br />
 2. **Patient**:
 
 ![Registration](./lnm_images/p23.jpeg)
