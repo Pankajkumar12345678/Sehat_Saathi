@@ -49,7 +49,7 @@ const DoctorDashboard = (props) => {
     _id: "",
   });
 
-  console.log("fergegetdadfsdfdoctor",doctor)
+  console.log("fergegetdadfsdfdoctor", doctor)
   const convertDatetoString = (dateString) => {
     let date = new Date(dateString);
     let day = date.getDate();
@@ -374,8 +374,18 @@ const DoctorDashboard = (props) => {
                     ></img>
 
                     <button className="font-semibold">Add New Diagnosis</button>
+
                   </div>
                 </Link>
+
+                {/* Model Woorks */}
+                <div className="flex bg-primary pl-0 pr-3 py-1 items-center justify-items-center  rounded font-semibold font-poppins shadow-sm hover:bg-bgsecondary  ">
+                  <a className="p-2 px-3" href="http://127.0.0.1:5000/" target="_blank" rel="noopener noreferrer">
+                    Run Model
+                  </a>
+                </div>
+                
+
               </div>
               <div className="bg-white m-4 rounded-lg ">
                 <div className="grid grid-rows-2 p-6 gap-2 shadow">

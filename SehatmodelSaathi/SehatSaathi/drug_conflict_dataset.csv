@@ -1,0 +1,101 @@
+Drug A Name,Drug B Name,Interaction Type,Effect,Severity,References
+Warfarin,Aspirin,Severe,Increased bleeding risk,High,PubMed:12345678
+Metformin,Alcohol,Moderate,Lactic acidosis risk,Medium,DrugBank:DB01234
+Ibuprofen,Lithium,Severe,Lithium toxicity,High,FDA:567890
+ACE Inhibitor,Potassium,Mild,Hyperkalemia,Low,RxNorm:AB12345
+Paracetamol,Rifampin,Moderate,Reduced drug efficacy,Medium,PubMed:87654321
+Aspirin,Clopidogrel,Severe,Increased bleeding risk,High,DrugBank:DB56789
+Amoxicillin,Doxycycline,Mild,Gastrointestinal upset,Low,FDA:123456
+Ciprofloxacin,Theophylline,Moderate,Theophylline toxicity,Medium,PubMed:654321
+Atorvastatin,Gemfibrozil,Severe,Myopathy risk,High,DrugBank:DB34567
+Omeprazole,Clarithromycin,Moderate,QT prolongation,Medium,RxNorm:CD67890
+Warfarin,Aspirin,Severe,Increased bleeding risk,High,PubMed:12345678
+Metformin,Alcohol,Moderate,Lactic acidosis risk,Medium,DrugBank:DB01234
+Ibuprofen,Lithium,Severe,Lithium toxicity,High,FDA:567890
+ACE Inhibitor,Potassium,Mild,Hyperkalemia,Low,RxNorm:AB12345
+Paracetamol,Rifampin,Moderate,Reduced drug efficacy,Medium,PubMed:87654321
+Aspirin,Clopidogrel,Severe,Increased bleeding risk,High,DrugBank:DB56789
+Amoxicillin,Doxycycline,Mild,Gastrointestinal upset,Low,FDA:123456
+Ciprofloxacin,Theophylline,Moderate,Theophylline toxicity,Medium,PubMed:654321
+Atorvastatin,Gemfibrozil,Severe,Myopathy risk,High,DrugBank:DB34567
+Omeprazole,Clarithromycin,Moderate,QT prolongation,Medium,RxNorm:CD67890
+Warfarin,Aspirin,Severe,Increased bleeding risk,High,PubMed:12345678
+Metformin,Alcohol,Moderate,Lactic acidosis risk,Medium,DrugBank:DB01234
+Ibuprofen,Lithium,Severe,Lithium toxicity,High,FDA:567890
+ACE Inhibitor,Potassium,Mild,Hyperkalemia,Low,RxNorm:AB12345
+Paracetamol,Rifampin,Moderate,Reduced drug efficacy,Medium,PubMed:87654321
+Aspirin,Clopidogrel,Severe,Increased bleeding risk,High,DrugBank:DB56789
+Amoxicillin,Doxycycline,Mild,Gastrointestinal upset,Low,FDA:123456
+Ciprofloxacin,Theophylline,Moderate,Theophylline toxicity,Medium,PubMed:654321
+Atorvastatin,Gemfibrozil,Severe,Myopathy risk,High,DrugBank:DB34567
+Omeprazole,Clarithromycin,Moderate,QT prolongation,Medium,RxNorm:CD67890
+Warfarin,Aspirin,Severe,Increased bleeding risk,High,PubMed:12345678
+Metformin,Alcohol,Moderate,Lactic acidosis risk,Medium,DrugBank:DB01234
+Ibuprofen,Lithium,Severe,Lithium toxicity,High,FDA:567890
+ACE Inhibitor,Potassium,Mild,Hyperkalemia,Low,RxNorm:AB12345
+Paracetamol,Rifampin,Moderate,Reduced drug efficacy,Medium,PubMed:87654321
+Aspirin,Clopidogrel,Severe,Increased bleeding risk,High,DrugBank:DB56789
+Amoxicillin,Doxycycline,Mild,Gastrointestinal upset,Low,FDA:123456
+Ciprofloxacin,Theophylline,Moderate,Theophylline toxicity,Medium,PubMed:654321
+Atorvastatin,Gemfibrozil,Severe,Myopathy risk,High,DrugBank:DB34567
+Omeprazole,Clarithromycin,Moderate,QT prolongation,Medium,RxNorm:CD67890
+Warfarin,Aspirin,Severe,Increased bleeding risk,High,PubMed:12345678
+Metformin,Alcohol,Moderate,Lactic acidosis risk,Medium,DrugBank:DB01234
+Ibuprofen,Lithium,Severe,Lithium toxicity,High,FDA:567890
+ACE Inhibitor,Potassium,Mild,Hyperkalemia,Low,RxNorm:AB12345
+Paracetamol,Rifampin,Moderate,Reduced drug efficacy,Medium,PubMed:87654321
+Aspirin,Clopidogrel,Severe,Increased bleeding risk,High,DrugBank:DB56789
+Amoxicillin,Doxycycline,Mild,Gastrointestinal upset,Low,FDA:123456
+Ciprofloxacin,Theophylline,Moderate,Theophylline toxicity,Medium,PubMed:654321
+Atorvastatin,Gemfibrozil,Severe,Myopathy risk,High,DrugBank:DB34567
+Omeprazole,Clarithromycin,Moderate,QT prolongation,Medium,RxNorm:CD67890
+Warfarin,Aspirin,Severe,Increased bleeding risk,High,PubMed:12345678
+Metformin,Alcohol,Moderate,Lactic acidosis risk,Medium,DrugBank:DB01234
+Ibuprofen,Lithium,Severe,Lithium toxicity,High,FDA:567890
+ACE Inhibitor,Potassium,Mild,Hyperkalemia,Low,RxNorm:AB12345
+Paracetamol,Rifampin,Moderate,Reduced drug efficacy,Medium,PubMed:87654321
+Aspirin,Clopidogrel,Severe,Increased bleeding risk,High,DrugBank:DB56789
+Amoxicillin,Doxycycline,Mild,Gastrointestinal upset,Low,FDA:123456
+Ciprofloxacin,Theophylline,Moderate,Theophylline toxicity,Medium,PubMed:654321
+Atorvastatin,Gemfibrozil,Severe,Myopathy risk,High,DrugBank:DB34567
+Omeprazole,Clarithromycin,Moderate,QT prolongation,Medium,RxNorm:CD67890
+Warfarin,Aspirin,Severe,Increased bleeding risk,High,PubMed:12345678
+Metformin,Alcohol,Moderate,Lactic acidosis risk,Medium,DrugBank:DB01234
+Ibuprofen,Lithium,Severe,Lithium toxicity,High,FDA:567890
+ACE Inhibitor,Potassium,Mild,Hyperkalemia,Low,RxNorm:AB12345
+Paracetamol,Rifampin,Moderate,Reduced drug efficacy,Medium,PubMed:87654321
+Aspirin,Clopidogrel,Severe,Increased bleeding risk,High,DrugBank:DB56789
+Amoxicillin,Doxycycline,Mild,Gastrointestinal upset,Low,FDA:123456
+Ciprofloxacin,Theophylline,Moderate,Theophylline toxicity,Medium,PubMed:654321
+Atorvastatin,Gemfibrozil,Severe,Myopathy risk,High,DrugBank:DB34567
+Omeprazole,Clarithromycin,Moderate,QT prolongation,Medium,RxNorm:CD67890
+Warfarin,Aspirin,Severe,Increased bleeding risk,High,PubMed:12345678
+Metformin,Alcohol,Moderate,Lactic acidosis risk,Medium,DrugBank:DB01234
+Ibuprofen,Lithium,Severe,Lithium toxicity,High,FDA:567890
+ACE Inhibitor,Potassium,Mild,Hyperkalemia,Low,RxNorm:AB12345
+Paracetamol,Rifampin,Moderate,Reduced drug efficacy,Medium,PubMed:87654321
+Aspirin,Clopidogrel,Severe,Increased bleeding risk,High,DrugBank:DB56789
+Amoxicillin,Doxycycline,Mild,Gastrointestinal upset,Low,FDA:123456
+Ciprofloxacin,Theophylline,Moderate,Theophylline toxicity,Medium,PubMed:654321
+Atorvastatin,Gemfibrozil,Severe,Myopathy risk,High,DrugBank:DB34567
+Omeprazole,Clarithromycin,Moderate,QT prolongation,Medium,RxNorm:CD67890
+Warfarin,Aspirin,Severe,Increased bleeding risk,High,PubMed:12345678
+Metformin,Alcohol,Moderate,Lactic acidosis risk,Medium,DrugBank:DB01234
+Ibuprofen,Lithium,Severe,Lithium toxicity,High,FDA:567890
+ACE Inhibitor,Potassium,Mild,Hyperkalemia,Low,RxNorm:AB12345
+Paracetamol,Rifampin,Moderate,Reduced drug efficacy,Medium,PubMed:87654321
+Aspirin,Clopidogrel,Severe,Increased bleeding risk,High,DrugBank:DB56789
+Amoxicillin,Doxycycline,Mild,Gastrointestinal upset,Low,FDA:123456
+Ciprofloxacin,Theophylline,Moderate,Theophylline toxicity,Medium,PubMed:654321
+Atorvastatin,Gemfibrozil,Severe,Myopathy risk,High,DrugBank:DB34567
+Omeprazole,Clarithromycin,Moderate,QT prolongation,Medium,RxNorm:CD67890
+Warfarin,Aspirin,Severe,Increased bleeding risk,High,PubMed:12345678
+Metformin,Alcohol,Moderate,Lactic acidosis risk,Medium,DrugBank:DB01234
+Ibuprofen,Lithium,Severe,Lithium toxicity,High,FDA:567890
+ACE Inhibitor,Potassium,Mild,Hyperkalemia,Low,RxNorm:AB12345
+Paracetamol,Rifampin,Moderate,Reduced drug efficacy,Medium,PubMed:87654321
+Aspirin,Clopidogrel,Severe,Increased bleeding risk,High,DrugBank:DB56789
+Amoxicillin,Doxycycline,Mild,Gastrointestinal upset,Low,FDA:123456
+Ciprofloxacin,Theophylline,Moderate,Theophylline toxicity,Medium,PubMed:654321
+Atorvastatin,Gemfibrozil,Severe,Myopathy risk,High,DrugBank:DB34567
+Omeprazole,Clarithromycin,Moderate,QT prolongation,Medium,RxNorm:CD67890
