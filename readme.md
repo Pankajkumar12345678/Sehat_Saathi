@@ -203,6 +203,27 @@ Sehat Saathi is an AI-powered healthcare assistant designed to streamline intera
 
 ---
 
+
+## 💡 Challenges
+
+1. **Timing of Doctor-Patient Interaction**:
+   - **Challenge**: Determining an optimal interaction time for each doctor-patient session to ensure it's neither too short to overlook important details nor too long to reduce efficiency.
+   - **Impact**: Ineffective consultations or delays in treating other patients.
+   - **Solution**: Use historical data to analyze average interaction times for similar cases and optimize scheduling without compromising patient care quality.
+
+2. **Drug Interaction Complexity**:
+   - **Challenge:** Checking for interactions among multiple drugs prescribed to a patient can be complex, especially with rare or new drug combinations.
+   - **Impact:** The system might miss certain interactions or generate false positives.
+   - **Solution**: Use comprehensive drug databases and keep them updated regularly.
+     
+3. **Integration Across Stakeholders**:
+   - **Challenge**: Ensuring seamless communication between doctors, patients, and the AI system.
+   - **Impact**: Delays in diagnosis or treatment if different components don’t sync properly
+   - **Solution**: Use standardized APIs and protocols for smooth integration.
+
+     
+---
+
 ## 📚 Summary
 
 Sehat Saathi integrates cutting-edge AI technology with medical expertise to revolutionize healthcare delivery. By automating parts of the diagnosis process, ensuring medication safety, and facilitating efficient data management, it enhances patient care and reduces system inefficiencies. With its ability to predict diseases, detect drug conflicts, and pre-identify severe conditions, Sehat Saathi empowers doctors and patients alike, paving the way for a safer, faster, and more reliable healthcare system.
