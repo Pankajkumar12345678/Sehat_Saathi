@@ -55,7 +55,7 @@ const PatientHistoryDoctorView = (props) => {
 
   useEffect(() => {
     async function getdoctor() {
-      const res = await fetch("http://localhost:5000/getdoctor");
+      const res = await fetch("/getdoctor");
       const data = await res.json();
       if (data.AuthError) {
         props.settoastCondition({
@@ -71,7 +71,7 @@ const PatientHistoryDoctorView = (props) => {
     async function getpatient() {
       if (props.healthID.length === 12) {
        
-        const res = await fetch(`http://localhost:5000/searchpatient/${props.healthID}`);
+        const res = await fetch(`/searchpatient/${props.healthID}`);
         const data = await res.json();
 
         if (data.AuthError) {

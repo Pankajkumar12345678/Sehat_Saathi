@@ -75,7 +75,7 @@ const PreviewPrescription = (props) => {
   });
   useEffect(() => {
     async function fetchprescription() {
-      const res = await fetch(`http://localhost:5000/prescription/${props.prescriptionID}`);
+      const res = await fetch(`/${props.prescriptionID}`);
       const data = await res.json();
       if (data.AuthError) {
         props.settoastCondition({
@@ -96,7 +96,7 @@ const PreviewPrescription = (props) => {
       }
     }
     async function fetchpatient() {
-      const res = await fetch("http://localhost:5000/getpatient");
+      const res = await fetch("");
       const data = await res.json();
 
       if (data.AuthError) {
@@ -110,8 +110,8 @@ const PreviewPrescription = (props) => {
         setPatient(data.patient);
       }
     }
-    fetchprescription();
-    fetchpatient();
+    // fetchprescription();
+    // fetchpatient();
   }, []);
 
   return (

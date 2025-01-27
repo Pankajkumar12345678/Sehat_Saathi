@@ -56,7 +56,7 @@ const PatientReportsDoctorView = (props) => {
 
   useEffect(() => {
     async function getdoctor() {
-      const res = await fetch("http://localhost:5000/getdoctor");
+      const res = await fetch("/getdoctor");
       const data = await res.json();
       if (data.AuthError) {
         props.settoastCondition({

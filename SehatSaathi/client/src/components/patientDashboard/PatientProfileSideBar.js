@@ -10,7 +10,7 @@ import { useState } from "react";
 const PatientProfileSideBar = (props) => {
   const navigate = useNavigate();
   const logout = async () => {
-    const res = await fetch("http://localhost:5000/logout");
+    const res = await fetch("");
     props.settoastCondition({
       status: "success",
       message: "Logged out Successfully!!!",
