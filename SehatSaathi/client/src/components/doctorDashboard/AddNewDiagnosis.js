@@ -89,7 +89,7 @@ const AddNewDiagnosis = (props) => {
   useEffect(() => {
     async function getDoctor() {
       try {
-        const res = await fetch("getdoctor");
+        const res = await fetch("http://localhost:5000/getdoctor");
         const data = await res.json();
   
         if (data.AuthError) {
@@ -129,7 +129,7 @@ const AddNewDiagnosis = (props) => {
     setLoading(true);
   
     try {
-      const res = await fetch(`/prescription/${props.healthID}`, {
+      const res = await fetch(`http://localhost:5000/prescription/${props.healthID}`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

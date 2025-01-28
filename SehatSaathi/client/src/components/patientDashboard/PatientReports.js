@@ -57,7 +57,7 @@ const PatientReports = (props) => {
 
   useEffect(() => {
     async function getpatient() {
-      const res = await fetch("");
+      const res = await fetch("http://localhost:5000/getpatient");
       const data = await res.json();
       if (data.AuthError) {
         props.settoastCondition({

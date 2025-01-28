@@ -5,7 +5,7 @@ import Footer from "../components/landingPage/Footer";
 const Page_404 = () => {
   return (
     <div className="w-screen h-screen bg-white">
-      <img src={img_404} className="mx-auto w-fit h-4/6 my-12" />
+      <img src={img_404} className="mx-auto w-fit h-4/6 my-12" alt="" />
       <h1 className="font-poppins font-bold font flex justify-center py-3">
         Page you are searching for doesn't exist!!!
       </h1>

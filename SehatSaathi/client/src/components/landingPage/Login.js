@@ -31,7 +31,7 @@ export default function Login(props) {
 
   const handlePatientLogin = async (healthID, password) => {
     setLoading(true);
-    const res = await fetch("/login/patient", {
+    const res = await fetch("http://localhost:5000/login/patient", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

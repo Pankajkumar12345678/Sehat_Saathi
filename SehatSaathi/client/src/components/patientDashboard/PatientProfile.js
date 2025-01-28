@@ -54,7 +54,7 @@ const PatientProfile = (props) => {
   });
   useEffect(() => {
     async function getpatient() {
-      const res = await fetch("");
+      const res = await fetch("http://localhost:5000/getpatient");
       const data = await res.json();
       if (data.AuthError) {
         props.settoastCondition({
@@ -124,7 +124,7 @@ const PatientProfile = (props) => {
         <div className="my-2">
           <div className="p-8 m-2 bg-white shadow-md w-2/3 rounded-md">
             <div className="flex mt-3">
-              <img src={address} className="h-7 w-8" />
+              <img src={address} className="h-7 w-8"  alt=""/>
               <div className="ml-4">
                 <h2>
                   {" "}
@@ -138,7 +138,7 @@ const PatientProfile = (props) => {
               Emergency Contact Details
             </h1>
             <div className="flex mt-4 ">
-              <img src={name} className="h-8 w-8" />
+              <img src={name} className="h-8 w-8" alt=""/>
               <h1 className="mx-2"> {patient.contactPerson.name.firstName}</h1>
               <h1 className="mx-2">{patient.contactPerson.name.surName}</h1>
             </div>
